@@ -14,6 +14,6 @@ class myClass:
 		
 
 # Object creation and method call
-foo = myClass("BILL")
+foo = myClass()
 foo.hello()
 foo.__privMeth
